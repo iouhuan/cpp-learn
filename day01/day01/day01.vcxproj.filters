@@ -29,5 +29,11 @@
     <ClCompile Include="day01_err.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="day01_const.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day01_ternary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
